@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="take_a_shot">Take a shot</string>
+    <string name="send_a_selfie">Send a selfie</string>
+</resources>
